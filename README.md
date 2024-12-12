@@ -4,41 +4,6 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Project README</title>
-      <style>
-         body {
-         font-family: Arial, sans-serif;
-         line-height: 1.6;
-         background-color: #f4f4f4;
-         color: #333;
-         margin: 20px;
-         padding: 0;
-         }
-         h1, h2 {
-         color: #2c3e50;
-         }
-         code {
-         background-color: #e3e3e3;
-         padding: 2px 6px;
-         border-radius: 4px;
-         }
-         pre {
-         background-color: #2c3e50;
-         color: white;
-         padding: 15px;
-         border-radius: 5px;
-         overflow-x: auto;
-         }
-         a {
-         color: #3498db;
-         text-decoration: none;
-         }
-         a:hover {
-         text-decoration: underline;
-         }
-         ul {
-         list-style-type: square;
-         }
-      </style>
    </head>
    <body>
       <h1>TournaSphere</h1>
